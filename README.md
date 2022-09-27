@@ -9,7 +9,7 @@ Project Description
 
 How to Install and Run the Application
 
-	This application can be downloaded on your PC on the youtube_downloader.exe file and after the new page opens click to download. After the download is finished it can be opened by double-clicking it. Sometimes can appear a blue color window because this application is not created under a license, so need to click More Info and after that Run Anyway.
+	This application can be downloaded on your PC on the Youtube downloader (MP4 + MP3).exe file and after the new page opens click to download. After the download is finished it can be opened by double-clicking it. Sometimes can appear a blue color window because this application is not created under a license, so need to click More Info and after that Run Anyway.
 
 How to Use the Project
 
