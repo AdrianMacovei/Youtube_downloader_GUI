@@ -58,11 +58,6 @@ If you like to download content on youtube (video or only audio) feel free to us
 In the end when all the first two fields are filed all you have to do is to choose pressing one of the download buttons, the Download Video button if you want an mp4 format of the file, or Download MP3 if you want mp3 format of the file.
 After you follow all the steps below only need to wait a few seconds to download the file after you will find the file in the location chosen on the second file.</p> 
 
-#
-
-Application tests
-	SOON
-
 
 
 
